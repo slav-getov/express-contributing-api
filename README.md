@@ -1,3 +1,4 @@
-# This is intended to be an api which is to be used for projects and will be constantly in development
+# Mission statement
 
-## It iwll be hosted in DigitalOcean
+> This is an api to be used for projects and is to be constantly in production
+> It will be hosted in DigitalOcean
